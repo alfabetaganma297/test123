@@ -42,3 +42,25 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Tue Dec  6 15:38:27 2016: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /app/static/share/perl/5.18.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
